@@ -37,7 +37,7 @@ Homework Instructions
       Name: XXXX
       Infected: XXX, Recovered: XXX, Deaths: XXX
       ```
-3. Create a class named `Pandemic` with the following:
+3. In the `city_data` package, create a file named `pandemic.py`. In that file, create a class named `Pandemic` with the following:
     - An `init` method that does not take any parameters and initializes an attribute named `cities` to an empty list.
          - Uncomment the two import statements at the top of the `test_pandemic.py` file. 
          - Uncomment and run the first test and the setup method for the class. Remove the pass keyword.
